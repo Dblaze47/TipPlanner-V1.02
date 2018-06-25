@@ -1,4 +1,4 @@
-# TipPlanner (A C# demo project)
+# TripPlanner (A C# demo project)
 This is a demo project in C# language. The main feature is to calculate trips within chosen source and
  destination. The application provides the user to chose the mode of transport, and upon choosing 
  the option of the shortest path, the application applies Dijkstra to select the best possible "bus"
